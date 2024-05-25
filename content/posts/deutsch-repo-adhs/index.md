@@ -49,7 +49,7 @@ Die Wände des leeren Wartezimmers von Frau Aeschbach sind in strahlendem Weiss 
 **Trotz ADHS, bewundernswerte Konzentration in Krisensituationen** 
 Fasziniert erläutert Frau Aeschbach, wie gut eine ADHS-betroffene Person in Krisensituationen arbeiten könne, wie beispielswiese in der Notfallchirurgie oder dem Rettungsdienst, wobei ihnen ihre genetisch bedingte Störung in diesen Fällen keine Steine in den Weg legt. Auf die Frage, wie man ADHS behandeln kann, beschreibt uns Frau Aeschbach den Behandlungsprozess von Neurofeedback: « Mit Neurofeedback, auch das Hirntraining genannt, versucht man die Wellen im Hirn zu steuern, damit die Betroffenen weniger nervös sind. Das Ziel ist es, die Diagnose zu verstehen und lernen damit umzugehen.» 
 
-![Simone Aeschbach](simome-2-.jpg)
+![Simone Aeschbach](simome-1-.jpg)
 
 **Soll man bei ADHS medikamentös eingreifen?**
 Mit voller Überzeugung stimmt Frau Aeschbach unserer Aussage zu, als wir davon ausgegangen sind, Medikamente bei einer Behandlung einzunehmen. Wie Frau Aeschbach erzählt: «Grundsätzlich empfehle ich gerne Medikamente, sofern sie jedoch gut dosiert und begleitet sind.» Die Meinungen erstrecken sich auf einer grossen Bandbreite. Man unterscheidet zwischen denen, die medikamentöse Eingriffe meiden, sowie Timo Hildebrandt diese Meinung teilt, da er schlechte Erfahrungen damit gemacht hat. Anderseits bevorzugt Frau Aeschbach eine Behandlung mit Medikamenten, bei korrekter Dosierung. 

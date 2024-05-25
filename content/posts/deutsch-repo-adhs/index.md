@@ -7,8 +7,6 @@ tags = ["Deutsch", "Reportage"]
 +++
 {{<lead>}}**In einer Gesellschaft, die Konzentration und Aufmerksamkeit schätzt, bleiben diejenigen, die mit ADHS leben, oft im Schatten. Doch hinter diesem Verhalten verbirgt sich eine komplexe Realität: Die Herausforderungen der Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS). Begleiten Sie uns auf eine kleine Reise der Diagnose ADHS, von anfänglichem Missverständnis hin zur Erkenntnis, dass jede Geschichte einzigartig ist und neue Perspektiven aufdeckt.**{{</lead>}}
 
-
-
 Von **Dalia Sretenovic und Cindy Nilovic**
 
 **Schulhausatmosphäre** 
@@ -46,12 +44,12 @@ Timo gibt den ADHS-Betroffenen einen wichtigen Rat: « Verstell dich nicht. Vers
 **Diagnose von ADHS**
 Die Wände des leeren Wartezimmers von Frau Aeschbach sind in strahlendem Weiss gestrichen, doch sobald sich die Tür öffnet, enthüllt sich ein gemütlich eingerichtetes Zimmer mit einem auffällig orangefarbenen Sofa. Nach der herzlichen Begrüssung erklärt die erfahrene ADHS-Expertin, die viele Menschen mit ADHS betreut, dass ADHS nicht wirklich ein Problem oder Hindernis ist, sondern vielmehr eine Art Begleitung im Leben darstellt. Denn alles hat einen Anfang. ADHS wird psychiatrisch diagnostiziert, bestehend aus einem Gespräch und Fragebögen, welche dem Alter angepasst sind. Im Idealfall holt man eine Lehrkraft dazu, damit man das Umfeld miteinbezieht. Laut der Spezialistin muss das Kind nicht nur in der Schule, sondern auch zu Hause auffällig sein. ADHS wird in drei Kategorien eingestuft, die Aufmerksamkeit, Impulsivität und die Hyperaktivität. Zu diesen Kategorien werden gezielte Fragen gestellt, sodass ADHS diagnostiziert werden kann. Damit das Kind eine Diagnose erhält, muss es bestimmte Kriterien zur Verhaltensweise erfüllen. Bei Kindern ist es üblich, eine Neuropsychologische Abklärung vornehmen zu lassen, welche aber nicht zwingend für die Diagnose nötig ist.
 
-![In der Praxis von Simone Aeschbach Bild: Cindy Nilovic](praxis-simone.jpg)
+![In der Praxis von Simone Aeschbach Bild: Cindy Nilovic](praxis-simone-1-.jpg)
 
 **Trotz ADHS, bewundernswerte Konzentration in Krisensituationen** 
 Fasziniert erläutert Frau Aeschbach, wie gut eine ADHS-betroffene Person in Krisensituationen arbeiten könne, wie beispielswiese in der Notfallchirurgie oder dem Rettungsdienst, wobei ihnen ihre genetisch bedingte Störung in diesen Fällen keine Steine in den Weg legt. Auf die Frage, wie man ADHS behandeln kann, beschreibt uns Frau Aeschbach den Behandlungsprozess von Neurofeedback: « Mit Neurofeedback, auch das Hirntraining genannt, versucht man die Wellen im Hirn zu steuern, damit die Betroffenen weniger nervös sind. Das Ziel ist es, die Diagnose zu verstehen und lernen damit umzugehen.» 
 
-![Simone Aeschbach](simome.jpg)
+![Simone Aeschbach](simome-2-.jpg)
 
 **Soll man bei ADHS medikamentös eingreifen?**
 Mit voller Überzeugung stimmt Frau Aeschbach unserer Aussage zu, als wir davon ausgegangen sind, Medikamente bei einer Behandlung einzunehmen. Wie Frau Aeschbach erzählt: «Grundsätzlich empfehle ich gerne Medikamente, sofern sie jedoch gut dosiert und begleitet sind.» Die Meinungen erstrecken sich auf einer grossen Bandbreite. Man unterscheidet zwischen denen, die medikamentöse Eingriffe meiden, sowie Timo Hildebrandt diese Meinung teilt, da er schlechte Erfahrungen damit gemacht hat. Anderseits bevorzugt Frau Aeschbach eine Behandlung mit Medikamenten, bei korrekter Dosierung. 

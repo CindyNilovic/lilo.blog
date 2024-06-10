@@ -4,6 +4,7 @@ date = "2024-05-24"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
+image = "adhs-gehirn.jpeg"
 +++
 {{<lead>}}**In einer Gesellschaft, die Konzentration und Aufmerksamkeit schätzt, bleiben diejenigen, die mit ADHS leben, oft im Schatten. Doch hinter diesem Verhalten verbirgt sich eine komplexe Realität: Die Herausforderungen der Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS). Begleiten Sie uns auf eine kleine Reise der Diagnose ADHS, von anfänglichem Missverständnis hin zur Erkenntnis, dass jede Geschichte einzigartig ist und neue Perspektiven aufdeckt.**{{</lead>}}
 

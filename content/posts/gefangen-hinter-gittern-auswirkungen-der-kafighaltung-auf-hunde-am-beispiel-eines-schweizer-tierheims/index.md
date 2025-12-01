@@ -12,3 +12,5 @@ Von **Cindy Nilovic**
 **Morgenstille und Tierheimatmosphäre**
 
 Ein ruhiger, angenehmer Mittwochmorgen: Der Himmel ist strahlend blau, die Sonne scheint und die Vögel zwitschern. Es riecht nach frischem Gras, während das Knirschen der Schuhsohlen auf dem Kies den Weg begleitet. Schon bald erscheint ein grosses, graues Gebäude, dessen Logo – ein roter Uhu – ins Auge fällt. Die Glastüre öffnet sich und gibt den Blick frei auf das seit 2022 bestehende «Berner Tierzentrum». Auffällig sind der
+
+![](tempimageybkb0v.jpg)

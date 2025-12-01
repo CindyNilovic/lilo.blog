@@ -97,3 +97,5 @@ Kristin ist sehr realistisch, wenn es um ihre rückblickenden Einschätzungen zu
 **Von der Beschlagnahmung ins Zuhause – Emmas Adoption durch Ramona Burri**
 
 Blicken wir vier Jahre zurück: Ramona Burri, erfahrene Tierpflegerin, entschied sich, die junge Cane-Corso-Italiano-Hündin «Emma» aus dem *«Berner Tierschutz»* zu adoptieren. Ihre Ausbildungszeit zur Tierpflegerin EFZ (Eidgenössisches Fähigkeitszeugnis) absolvierte Ramona ebenfalls im *«Berner Tierschutz»*. Da sie einen Hundehort – eine Tagesbetreuung für Hunde – führt, jedoch kein Hundeferienheim oder Tierheim, wandte sie sich nach Abschluss ihrer Ausbildung mit einer Stellenanfrage an das Tierzentrum. Nach der Bewilligung durch das Team arbeitete Ramona einmal pro Woche im *«Berner Tierzentrum»*. Kurz nach Stellenantritt im Jahr 2022 öffnete sich ihr Herz für die frisch eingetroffene Cane-Corso-Hündin *«Emma»*.
+
+![Bild 7: Cane Corso Italiano Hündin "Emma" (Aufnahme: Ramona Burri)](img_4454-2-2.jpg)

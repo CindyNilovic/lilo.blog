@@ -61,3 +61,5 @@ Die Anfangsphase ist laut Kristin für Hunde meistens besonders stressig, da sie
 **Massnahmen zur Stressreduktion**
 
 Als wirksame Möglichkeiten, den Stress der Hunde zu verringern, nennt Kristin vor allem die richtige Gestaltung der Boxen: «Ein ganz wichtiger Teil ist sicher
+
+![Bild 6: Hundekäfige (Aufnahme: Cindy Nilovic)](tempimage08zyqe.jpg)

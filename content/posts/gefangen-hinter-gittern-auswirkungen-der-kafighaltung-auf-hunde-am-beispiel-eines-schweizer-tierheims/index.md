@@ -16,3 +16,5 @@ Ein ruhiger, angenehmer Mittwochmorgen: Der Himmel ist strahlend blau, die Sonne
 ![Bild 2: Berner Tierzentrum (Aufnahme: Cindy Nilovic)](tempimageybkb0v.jpg)
 
 Empfangstisch sowie der Kontrast der grau-roten Wandgestaltung. Vor dem Empfangstisch wird man von Kristin Brügger, Leiterin des Hundebereichs, freundlich begrüsst und in einen Besprechungsraum geführt. Sofort wird spürbar, dass sie ihren Beruf mit Leidenschaft ausübt.
+
+![Bild 3: Besprechungsraum des Berner Tierzentrums (Aufnahme: Cindy Nilovic)](tempimageqlse6s.jpg)

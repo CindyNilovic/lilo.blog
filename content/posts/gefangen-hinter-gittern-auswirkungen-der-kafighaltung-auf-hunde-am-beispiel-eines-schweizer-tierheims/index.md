@@ -68,7 +68,7 @@ Als wirksame Möglichkeiten, den Stress der Hunde zu verringern, nennt Kristin v
 
 {{<box>}}CBD-Öl ist ein nicht berauschender Pflanzenwirkstoff aus der Hanfpflanze, der über das körpereigene Endocannabinoid-System wirkt und entzündungshemmende, angstlösende sowie schmerzlindernde Effekte haben kann. 
 
-https://www.kleintierkliniks.ch/de/tierratgeber/cbd-ein-wundermittel{{</box>}}
+*https://www.kleintierkliniks.ch/de/tierratgeber/cbd-ein-wundermittel*{{</box>}}
 
 **Langfristige gesundheitliche Folgen der Käfighaltung**
 
